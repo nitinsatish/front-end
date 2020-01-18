@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+        frontend:
+                image: nitinsatish/frontend
+                ports: 
+                - "8079:8079"
